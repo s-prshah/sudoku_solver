@@ -2,7 +2,7 @@
 
 A Python implementation of a **generic Sudoku solver** using recursive backtracking and constraint validation. The solver supports **variable board sizes** (not limited to 9×9) and works with any set of unique symbols.
 
-> Note: Completed as part of a coursework project. All code shown here was implemented by me and is included in my portfolio.
+> Note: Completed as part of a coursework project. The code shown here was implemented by me and is included in my portfolio.
 
 ---
 
